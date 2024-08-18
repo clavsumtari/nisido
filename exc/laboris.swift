@@ -1,0 +1,2 @@
+   var i = c.startIndex
+   
